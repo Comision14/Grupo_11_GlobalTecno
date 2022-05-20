@@ -1,7 +1,7 @@
 # Global Tecno
-Tienda que importa productos tecnologicos.
+Tienda de productos que importa
 
-Somos una tienda con servicio de Almacén. Nos encargamos de traer lo último y enviarlo hasta la puerta de su casa. Trabajamos con marcas como Apple, Xiaomi, Asus, Realme, OnePlus, Google, Oppo, entre otros; marcas las cuales no se venden de forma oficial en Argentina, pero tiene alta demanda a nivel mundial por su excelente calidad. Por eso, desde Global Tecno, nos preocupamos por llevarte siempre lo mejor al mejor precio.
+Somos una tienda con servicio de Almacén. Nos encargamos de traer lo último en tecnología y enviarlo hasta la puerta de su casa. Trabajamos con marcas como Apple, Xiaomi, Asus, Realme, OnePlus, Google, Oppo, entre otros; marcas las cuales no se venden de forma oficial en Argentina, pero tiene alta demanda a nivel mundial por su excelente calidad. Por eso, desde Global Tecno, nos preocupamos por llevarte siempre lo mejor al mejor precio.
 
 
 **Páginas en las que nos inspiramos:** 
@@ -32,26 +32,26 @@ INTEGRANTES:
              ◇ 31 años
              ◇ Buenos Aires 
              ◇ Camarera-Desempleada 
-       
-       ◆ Brenda Vecchia: 
-             ◇ 19 años 
-             ◇ Neuquén
-             ◇ Desempleada       
-              
-       ◆ Roy Espinoza:
-             ◇ 33 años 
-             ◇ Buenos Aires
-             ◇ Desempleado
              
-       ◆ Hernán Balderrama:
+       ◆ Hernán Balderrama
              ◇ 29 años
              ◇ Buenos Aires 
              ◇ Escribanías 
              
-       ◆ Josué Quiroga:
+       ◆ Josué Quiroga
              ◇ 19 años
              ◇ Mendoza
              ◇ Desempleado (por el momento)
+             
+       ◆ Roy Espinoza 
+             ◇ 33 años 
+             ◇ Buenos Aires
+             ◇ picking
+             
+       ◆ Brenda Vecchia 
+             ◇ 19 años 
+             ◇ Neuquén
+             ◇ Desempleada 
  
 Descripción y Nicho de mercado: 
 
@@ -63,5 +63,3 @@ Nuestra audiencia objetivo son adolescentes/jóvenes/adultos que desean estar ac
 
 ¿Como ajustaremos nuestra oferta al público? 
 Queremos que la navegación por el sitio sea funcional, intuitiva e igual de cómodo en el dispositivo que utilice el cliente (tablet; celular; pc; etc), con colores llamativos y funciones que inviten al cliente a explorar a través de la página en busca del producto que mejor se adapte a sus necesidades. 
-
-link de TRELLO: https://trello.com/b/KEVBercI
